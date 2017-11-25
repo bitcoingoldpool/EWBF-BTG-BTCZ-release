@@ -1,11 +1,11 @@
 # EWBF-new-release
-EWBF BitcoinGold Edition 
+EWBF BitcoinGold & BitcoinZ Edition 
  
 Increased speed up to 5% with new card models. Speed up hush rate and improved stability on the 1070ti. Works on cards with at least 1Gb memory with Compute Capability 3 and higher. Miner contain devfee 2%.
 
 History:
-Version 0.3.2b - BTG
-- Added support for Bitcoin Gold
+Version 0.3.2b - BTG & BTCZ
+- Added support for Bitcoin Gold / Bitcoin Z
 
 Version 0.3.2b
 Reduced gpu memory usage.
