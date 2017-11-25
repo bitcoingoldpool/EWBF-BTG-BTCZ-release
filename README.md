@@ -73,3 +73,5 @@ Code used:
 - BLAKE2b reference implementation from RFC 7693 optimized for SSE4, taken from Equihash by John Tromp, https://github.com/tromp/equihash
 - JSON by TriKita, https://github.com/zserge/jsmn
 - EWBF reference from nanopool.org and ./z-nomp from hellcatz, https://github.com/hellcatz
+
+华同小 2017
